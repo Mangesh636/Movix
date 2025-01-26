@@ -23,7 +23,7 @@ Key Features:
 
 1. Clone the repository:
    ```bash
-   git clone [<repository_url>](https://github.com/Mangesh636/Movix)
+   git clone https://github.com/Mangesh636/Movix
    ```
 
 2. Navigate to the project directory:
